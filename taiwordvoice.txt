@@ -1,3 +1,0 @@
-[
-{"word":"ၵ","voice":"gha"},{"word":"ၶ","voice":"kha"}
-]
