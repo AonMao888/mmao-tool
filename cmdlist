@@ -1,7 +1,7 @@
 [
 {"title":"AFG Crack","cate":"cloner","des":"Features 
 [+] No Login Required !
-[+] Cracks 7,8,9,10,11 Digit Passwords !
+[+] Cracks 7/8/9/10/11 Digit Passwords !
 [+] All Afghanistani Operators are Available !
 [+] Easy for Beginners !","cmd":"apt update / apt install git python python2 -y / git clone https://github.com/htr-tech/afgcrack.git / cd afgcrack / python2 crack.py","icon":"https://opengraph.githubassets.com/eae4e9ebc6e8644d402e46ef9abbcafeeabc841bc2b704cb7e9289fb008f261c/htr-tech/afgcrack"},
 {"title":"Track Ip","cate":"tracking","des":"","cmd":"apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track-ip.git ; cd track-ip ; bash trackip","icon":"https://raw.githubusercontent.com/htr-tech/release-download/master/images/trackip.png"}
